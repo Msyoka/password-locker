@@ -33,7 +33,7 @@ Password Locker is a terminal run python application that allows users to store 
 
 * In your terminal:
         
-        * $ git clone https://github.com/Msyoka/password-locker
+        $ git clone https://github.com/Msyoka/password-locker
 
         $ cd passsword-locker
 
