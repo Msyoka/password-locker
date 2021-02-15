@@ -41,7 +41,7 @@ Password Locker is a terminal run python application that allows users to store 
 
 * To run the tests for the class file:
 
-        $ python3 test_creden.py
+        $ python3 creden_test.py
         
 ## Technologies Used
 
