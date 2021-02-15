@@ -82,7 +82,6 @@ class Credential:
 		return user_credentials_list
 				
 
-	
 	@classmethod
 	def find_by_site_name(cls, site_name):
 		'''
