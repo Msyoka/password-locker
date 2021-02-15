@@ -12,15 +12,15 @@ class TestUser(unittest.TestCase):
 		'''
 		Function to create a user account before each test
 		'''
-		self.new_user = User('Dickson','Macharia','dikky001')
+		self.new_user = User('David','Mumo','Msyoka!')
 
 	def test__init__(self):
 		'''
 		Test to if check the initialization/creation of user instances is properly done
 		'''
-		self.assertEqual(self.new_user.first_name,'Dickson')
-		self.assertEqual(self.new_user.last_name,'Macharia')
-		self.assertEqual(self.new_user.password,'dikky001')
+		self.assertEqual(self.new_user.first_name,'David')
+		self.assertEqual(self.new_user.last_name,'Mumo')
+		self.assertEqual(self.new_user.password,'Msyoka!')
 
 	def test_save_user(self):
 		'''
