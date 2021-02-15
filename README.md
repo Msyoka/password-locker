@@ -1,10 +1,15 @@
-   ## PASSWORD-LOCKER
+## PASSWORD-LOCKER
 
-## Built By [David Mumo](https://github.com/Msyoka/password-locker)
+## Author
+
+[David-Mumo](https://github.com/Msyoka)
 
 ## Description
+
 Password Locker is a terminal run python application that allows users to store details.
+
 ## Specifications
+
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
 | Display codes for navigation | **In terminal: $./password_locker.py** | Welcome, choose an option: ca-Create Account, li-Log In, ex-Exit |
@@ -17,6 +22,7 @@ Password Locker is a terminal run python application that allows users to store 
 | Exit application | **Enter: ex** | Exit the current navigation stage |
 
 ## SetUp / Installation Requirements
+
 ### Prerequisites
 * python3
 * pip
@@ -24,6 +30,7 @@ Password Locker is a terminal run python application that allows users to store 
 
 
 ### Cloning
+
 * In your terminal:
         
         * $ git clone https://github.com/Msyoka/password-locker
@@ -31,12 +38,19 @@ Password Locker is a terminal run python application that allows users to store 
         $ cd passsword-locker
 
 ## Testing the Application
+
 * To run the tests for the class file:
 
         $ python3 test_creden.py
         
 ## Technologies Used
+
 * Python3
 
-## license
-GNU GENERAL PUBLIC LICENSE &copy;2019 [David-Mumo]
+## Contact Information
+
+If you may have any question or contributions, please contact me via email at [daviemumo37@gmail.com]
+
+## License
+
+GNU GENERAL PUBLIC LICENSE &copy;2021 [David-Mumo]
